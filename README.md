@@ -4,4 +4,4 @@ I have not actually used this guide on a project yet, but I am hoping to use it 
 
 I hope it'll make sure that the web sites that I build will look good. If not, I will go back and update this guide.
 
-Enjoy.
+Enjoy it [here](https://ubeydu.github.io/)
