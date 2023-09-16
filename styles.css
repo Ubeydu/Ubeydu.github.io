@@ -1,0 +1,143 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0 10%;
+    line-height: 1.4;
+  }
+
+h1 {
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+  li.p {
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  li.h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Ysabeau Office', sans-serif;
+  }
+
+  li.h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Ysabeau Office', sans-serif;
+  }
+
+  li.handwriting {    
+    font-size: 16px;
+    font-family: 'Clicker Script', 'Inter', sans-serif;
+  }
+
+  p.handwriting {
+    font-family: 'Clicker Script', 'Inter', sans-serif !important;
+  }
+
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .pale-taupe {
+    background-color: #C69A83;
+    color: #fff;
+  }
+  
+  .tan {
+    background-color: #D2A790;
+    color: #fff;
+  }
+  
+  .maximum-blue-purple {
+    background-color: #B9ABE3;
+    color: #fff;
+  }
+  
+  .tropical-violet {
+    background-color: #D5AFE5;
+    color: #fff;
+  }
+
+  .thistle-crayola {
+    background-color: #E6B2DE;
+    color: #fff;
+  }
+  
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .ysabeau-office {
+    font-family: 'Ysabeau Office', sans-serif;
+  }
+  
+  .clicker-script {
+    font-family: 'Clicker Script', 'Inter', sans-serif;
+  }
+  
+  .inter {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Ysabeau Office', sans-serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Ysabeau Office', sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  footer {
+    margin-bottom: 15px;
+  }
+
